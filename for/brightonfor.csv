@@ -1,0 +1,31 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Gls,Sh,SoT,SoT%,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Match Report
+2020-09-14,20:15 (00:45),Matchweek 1,Mon,Home,L,1,3,Chelsea,1,13,3,23.1,0.08,0.33,17.2,0,0,0,1.4,1.4,0.11,-0.4,-0.4,Match Report
+2020-09-20,14:00 (18:30),Matchweek 2,Sun,Away,W,3,0,Newcastle Utd,3,12,5,41.7,0.17,0.40,21.0,0,1,1,1.6,0.8,0.07,+1.4,+1.2,Match Report
+2020-09-26,12:30 (17:00),Matchweek 3,Sat,Home,L,2,3,Manchester Utd,2,17,3,17.6,0.06,0.33,16.0,0,1,1,2.4,1.6,0.10,-0.4,-0.6,Match Report
+2020-10-03,15:00 (19:30),Matchweek 4,Sat,Away,L,2,4,Everton,2,11,3,27.3,0.18,0.67,18.2,1,0,0,1.2,1.2,0.11,+0.8,+0.8,Match Report
+2020-10-18,14:00 (18:30),Matchweek 5,Sun,Away,D,1,1,Crystal Palace,1,17,3,17.6,0.06,0.33,17.3,0,0,0,1.1,1.1,0.07,-0.1,-0.1,Match Report
+2020-10-26,17:30 (23:00),Matchweek 6,Mon,Home,D,1,1,West Brom,0,5,3,60.0,0.00,0.00,16.7,0,0,0,0.7,0.7,0.14,-0.7,-0.7,Match Report
+2020-11-01,19:15 (00:45),Matchweek 7,Sun,Away,L,1,2,Tottenham,1,6,2,33.3,0.17,0.50,16.1,0,0,0,0.4,0.4,0.06,+0.6,+0.6,Match Report
+2020-11-06,17:30 (23:00),Matchweek 8,Fri,Home,D,0,0,Burnley,0,19,3,15.8,0.00,0.00,15.9,1,0,0,1.3,1.3,0.07,-1.3,-1.3,Match Report
+2020-11-21,15:00 (20:30),Matchweek 9,Sat,Away,W,2,1,Aston Villa,2,7,3,42.9,0.29,0.67,13.2,0,0,0,1.3,1.3,0.19,+0.7,+0.7,Match Report
+2020-11-28,12:30 (18:00),Matchweek 10,Sat,Home,D,1,1,Liverpool,1,9,2,22.2,0.00,0.00,20.5,1,1,2,2.1,0.5,0.06,-1.1,-0.5,Match Report
+2020-12-07,20:00 (01:30),Matchweek 11,Mon,Home,L,1,2,Southampton,1,11,3,27.3,0.00,0.00,14.5,0,1,1,2.1,1.4,0.12,-1.1,-1.4,Match Report
+2020-12-13,19:15 (00:45),Matchweek 12,Sun,Away,L,0,3,Leicester City,0,12,4,33.3,0.00,0.00,18.8,0,0,0,1.1,1.1,0.09,-1.1,-1.1,Match Report
+2020-12-16,20:00 (01:30),Matchweek 13,Wed,Away,D,0,0,Fulham,0,9,3,33.3,0.00,0.00,17.6,0,0,0,0.6,0.6,0.07,-0.6,-0.6,Match Report
+2020-12-20,12:00 (17:30),Matchweek 14,Sun,Home,D,1,1,Sheffield Utd,1,21,4,19.0,0.05,0.25,13.5,0,0,0,2.6,2.6,0.12,-1.6,-1.6,Match Report
+2020-12-27,14:15 (19:45),Matchweek 15,Sun,Away,D,2,2,West Ham,2,13,4,30.8,0.15,0.50,16.3,0,0,0,1.2,1.2,0.09,+0.8,+0.8,Match Report
+2020-12-29,18:00 (23:30),Matchweek 16,Tue,Home,L,0,1,Arsenal,0,13,2,15.4,0.00,0.00,13.4,0,0,0,0.8,0.8,0.06,-0.8,-0.8,Match Report
+2021-01-02,17:30 (23:00),Matchweek 17,Sat,Home,D,3,3,Wolves,3,12,3,25.0,0.17,0.67,15.8,0,1,1,1.7,0.9,0.08,+1.3,+1.1,Match Report
+2021-01-13,18:00 (23:30),Matchweek 18,Wed,Away,L,0,1,Manchester City,0,5,1,20.0,0.00,0.00,20.4,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Match Report
+2021-01-16,15:00 (20:30),Matchweek 19,Sat,Away,W,1,0,Leeds United,1,7,2,28.6,0.14,0.50,15.5,0,0,0,1.3,1.3,0.19,-0.3,-0.3,Match Report
+2021-01-27,19:30 (01:00),Matchweek 20,Wed,Home,D,0,0,Fulham,0,16,5,31.3,0.00,0.00,14.8,1,0,0,2.0,2.0,0.13,-2.0,-2.0,Match Report
+2021-01-31,19:15 (00:45),Matchweek 21,Sun,Home,W,1,0,Tottenham,1,16,2,12.5,0.06,0.50,14.6,0,0,0,1.9,1.9,0.12,-0.9,-0.9,Match Report
+2021-02-03,20:15 (01:45),Matchweek 22,Wed,Away,W,1,0,Liverpool,1,13,4,30.8,0.08,0.25,14.0,0,0,0,1.1,1.1,0.09,-0.1,-0.1,Match Report
+2021-02-06,15:00 (20:30),Matchweek 23,Sat,Away,D,1,1,Burnley,1,10,2,20.0,0.10,0.50,17.4,1,0,0,0.6,0.6,0.06,+0.4,+0.4,Match Report
+2021-02-13,20:00 (01:30),Matchweek 24,Sat,Home,D,0,0,Aston Villa,0,26,9,34.6,0.00,0.00,17.0,3,0,0,1.7,1.7,0.06,-1.7,-1.7,Match Report
+2021-02-22,20:00 (01:30),Matchweek 25,Mon,Home,L,1,2,Crystal Palace,1,24,5,20.8,0.04,0.20,13.8,0,0,0,2.6,2.6,0.12,-1.6,-1.6,Match Report
+2021-02-27,15:00 (20:30),Matchweek 26,Sat,Away,L,0,1,West Brom,0,13,6,46.2,0.00,0.00,18.1,1,0,2,2.6,1.1,0.09,-2.6,-1.1,Match Report
+2021-03-06,20:00 (01:30),Matchweek 27,Sat,Home,L,1,2,Leicester City,1,8,2,25.0,0.13,0.50,15.4,0,0,0,1.0,1.0,0.13,0.0,0.0,Match Report
+2021-03-14,12:00 (17:30),Matchweek 28,Sun,Away,W,2,1,Southampton,2,8,6,75.0,0.25,0.33,18.1,1,0,0,0.9,0.9,0.11,+1.1,+1.1,Match Report
+2021-03-20,20:00 (01:30),Matchweek 29,Sat,Home,W,3,0,Newcastle Utd,3,11,6,54.5,0.27,0.50,14.8,0,0,0,1.1,1.1,0.10,+1.9,+1.9,Match Report
+,,,,,7-11-11,32,36,,31,364,103,28.3,0.07,0.25,16.1,10,5,8,40.7,34.6,0.10,-9.7,-8.6,
